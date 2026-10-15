@@ -1,0 +1,17 @@
+{
+    "name": "calculadora",
+    "author": "Prueba",
+    "license": "GNU",
+    "version": "4.0.0",
+    "capturesFolder": "miscapturas",
+    "capturesNumber": 2,
+    "info": {
+        "githubURL": "raquelbcarballo/p_python_simple",
+        "serverUrl": "http://localhost:3000/",
+        "courseId": "8249",
+        "assignmentId": "73146"
+    },
+    "dependencies": {
+        "autocorector": "^4.1.0"
+    }
+}
